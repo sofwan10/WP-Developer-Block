@@ -1,4 +1,4 @@
-# WP-Developer-Block
+# WP Developer Block
 
 ## I've created plugin that enhance performance using AI & Machine Learning
 - Introducing WP Developer Block, the ultimate plugin for creating custom blocks in WordPress. With this powerful tool, you can easily create custom blocks for your posts and pages without any coding knowledge. The plugin offers a wide range of options for customizing your blocks, including the ability to add text, images, videos, and more. You can also choose from a variety of pre-designed templates to get started quickly.
